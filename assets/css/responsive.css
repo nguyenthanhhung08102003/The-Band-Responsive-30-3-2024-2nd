@@ -1,0 +1,53 @@
+@media (max-width: 740px) {
+    #header {
+        overflow: hidden;
+    }
+
+
+    #nav .subnav {
+        position: initial;
+        background: #333;
+    }
+
+
+    #nav .subnav a {
+        color: #fff;
+        line-height: 46px;
+    }
+
+
+    #nav {
+        display: block;
+    }
+
+
+    #nav li {
+        display: block;
+    }
+
+
+    .members-item {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+
+    .section-content .members-img {
+        width: 60%;
+    }
+
+
+    .text-content {
+        display: none;
+    }
+
+
+    .search-btn {
+        display: none;
+    }
+
+
+    .menu-mobile-btn {
+        display: block;
+    }
+}
