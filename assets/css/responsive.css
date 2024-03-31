@@ -55,4 +55,9 @@
     #nav>li:first-child {
         display: inline-block;
     }
+
+
+    .s-col-full {
+        width: 100%;
+    }
 }
